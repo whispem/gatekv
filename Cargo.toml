@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 rust-version = "1.88"
 description = "A Raft-replicated key-value store in under 1000 lines of Rust and x86-64 assembly"
+license = "MIT OR Apache-2.0"
 publish = false
 
 [[bench]]
